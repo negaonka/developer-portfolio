@@ -49,11 +49,14 @@ function Portfolio(){
       ]);
 
     return (
-        <div className="flex-row">
-       {developers.map((developer) => (
-           <Project developer = {developer}/>
+        <>
+            <h1 data-testid="h1tag">Portfolio</h1>
+            <div className="flex-row">
+                {developers.map((developer) => (
+                <Project developer = {developer}/>
             ))}
-      </div>
+            </div>
+      </>
     )
 
 }

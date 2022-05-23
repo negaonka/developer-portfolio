@@ -2,9 +2,12 @@
 
 exports[`About component matches snapshot DOM node structure 1`] = `
 <DocumentFragment>
-  <section
-    class="my-5"
-  >
+  <section>
+    <h1
+      data-testid="h1tag"
+    >
+      About me
+    </h1>
     <img
       alt="cover"
       class="py-2"
