@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/developer-portfolio/static/css/main.67ea9248.css",
+    "main.js": "/developer-portfolio/static/js/main.73ba73a6.js",
+    "static/js/787.b36bb88a.chunk.js": "/developer-portfolio/static/js/787.b36bb88a.chunk.js",
+    "static/media/ResumeNehaGaonkar.pdf": "/developer-portfolio/static/media/ResumeNehaGaonkar.2d1cb833c6440ed1b8f7.pdf",
+    "static/media/developer2.jfif": "/developer-portfolio/static/media/developer2.ceb311f989a8cf34c6a2.jfif",
+    "static/media/developer6.jfif": "/developer-portfolio/static/media/developer6.a877d62f2cdf9645a207.jfif",
+    "static/media/developer3.jfif": "/developer-portfolio/static/media/developer3.8f81ff31f70ddc54354f.jfif",
+    "static/media/linkdln.jfif": "/developer-portfolio/static/media/linkdln.a5b80ed5e6cfe6ec6d3a.jfif",
+    "static/media/developer5.jfif": "/developer-portfolio/static/media/developer5.0685226b3df021b225e4.jfif",
+    "static/media/stackOverflow.jfif": "/developer-portfolio/static/media/stackOverflow.5371660ae28d63cebfd0.jfif",
+    "static/media/developer1.jfif": "/developer-portfolio/static/media/developer1.f158cd05cf3dcb4d92bb.jfif",
+    "static/media/developer4.jfif": "/developer-portfolio/static/media/developer4.2c4d2e52d255d565d459.jfif",
+    "index.html": "/developer-portfolio/index.html",
+    "main.67ea9248.css.map": "/developer-portfolio/static/css/main.67ea9248.css.map",
+    "main.73ba73a6.js.map": "/developer-portfolio/static/js/main.73ba73a6.js.map",
+    "787.b36bb88a.chunk.js.map": "/developer-portfolio/static/js/787.b36bb88a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67ea9248.css",
+    "static/js/main.73ba73a6.js"
+  ]
+}
