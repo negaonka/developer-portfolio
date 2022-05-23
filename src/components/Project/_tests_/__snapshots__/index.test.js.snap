@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Project component matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="container"
+    >
+      <img
+        alt="developer"
+        height="300px"
+        width="500px"
+      />
+      <div
+        class="middle"
+      >
+        <a
+          rel="noreferrer"
+          target="_blank"
+        >
+          <img
+            alt="github"
+            height="40px"
+            src="github.png"
+            width="40px"
+          />
+        </a>
+        <a
+          rel="noreferrer"
+          target="_blank"
+        >
+          <p />
+        </a>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
