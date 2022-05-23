@@ -4,12 +4,11 @@ import About from './components/About';
 import Header from './components/Header';
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
+import Resume from './components/Resume';
 
 function App() {
   const [menus] = useState([
-    {
-      name: 'about me',
-    },
+    { name: 'about me' },
     { name: 'portfolio' },
     { name: 'contact' },
     { name: 'resume'},
@@ -27,6 +26,7 @@ function App() {
       {currentMenu.name === "about me" && <About/>}
       {currentMenu.name === "portfolio" && <Portfolio/>}
       {currentMenu.name === "contact" && <Contact/>}
+      {currentMenu.name === "resume" && <Resume/>}
     </main>
   </>
   );

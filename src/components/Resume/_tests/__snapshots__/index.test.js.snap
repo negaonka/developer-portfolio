@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Project component matches snapshot 1`] = `
+<DocumentFragment>
+  <section>
+    <h1
+      data-testid="h1tag"
+    >
+      Resume
+    </h1>
+    <div>
+      <h5>
+        Download my
+        <a
+          download="ResumeNehaGaonkar.pdf"
+          href="ResumeNehaGaonkar.pdf"
+          style="color: rgb(134, 134, 139);"
+        >
+          <h5>
+            resume
+          </h5>
+        </a>
+      </h5>
+    </div>
+  </section>
+  <section>
+    <h2>
+      UI Technologies
+    </h2>
+    <ul>
+      <li
+        style="list-style: circle;"
+      >
+        JavaScript
+      </li>
+      <li
+        style="list-style: circle;"
+      >
+        JQuery
+      </li>
+      <li
+        style="list-style: circle;"
+      >
+        Ajax
+      </li>
+      <li
+        style="list-style: circle;"
+      >
+        Angular
+      </li>
+      <li
+        style="list-style: circle;"
+      >
+        HTML
+      </li>
+      <li
+        style="list-style: circle;"
+      >
+        CSS
+      </li>
+      <li
+        style="list-style: circle;"
+      >
+        React
+      </li>
+    </ul>
+    <h2>
+      BackEnd Technologies
+    </h2>
+    <ul>
+      <li
+        style="list-style: circle;"
+      >
+        Java
+      </li>
+      <li
+        style="list-style: circle;"
+      >
+        Node
+      </li>
+      <li
+        style="list-style: circle;"
+      >
+        Hibernate
+      </li>
+      <li
+        style="list-style: circle;"
+      >
+        Web-services
+      </li>
+      <li
+        style="list-style: circle;"
+      >
+        Oracle
+      </li>
+      <li
+        style="list-style: circle;"
+      >
+        MY-SQL
+      </li>
+    </ul>
+  </section>
+</DocumentFragment>
+`;
