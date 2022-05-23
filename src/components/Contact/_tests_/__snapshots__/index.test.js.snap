@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Nav component matches snapshot 1`] = `
+<DocumentFragment>
+  <section>
+    <h1
+      data-testid="h1tag"
+    >
+      Contact me
+    </h1>
+    <form
+      id="contact-form"
+    >
+      <div
+        class="my-2"
+      >
+        <div>
+          <label
+            for="name"
+          >
+            Name:
+          </label>
+        </div>
+        <div>
+          <input
+            name="name"
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+      <div
+        class="my-2"
+      >
+        <div>
+          <label
+            for="email"
+          >
+            Email address:
+          </label>
+        </div>
+        <div>
+          <input
+            name="email"
+            type="email"
+            value=""
+          />
+        </div>
+      </div>
+      <div
+        class="my-2"
+      >
+        <div>
+          <label
+            for="message"
+          >
+            Message:
+          </label>
+        </div>
+        <div>
+          <textarea
+            name="message"
+            rows="5"
+          />
+        </div>
+      </div>
+      <button
+        data-testid="buttontag"
+        type="submit"
+      >
+        Submit
+      </button>
+    </form>
+  </section>
+</DocumentFragment>
+`;

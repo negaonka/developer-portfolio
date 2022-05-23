@@ -3,7 +3,8 @@ import NehaPhoto from  "../../assets/cover/NehaPhoto.png";
 
 function About(){
     return (
-        <section className="my-5">
+        <section>
+            <h1 data-testid="h1tag">About me</h1>
             <img src={NehaPhoto} className="py-2" 
                 style={{ width: "25%", display: "block",marginLeft: "auto", marginRight: "auto"}} alt="cover" />
             <h5 id="about" 
