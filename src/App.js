@@ -3,7 +3,7 @@ import './App.css';
 import Header from './components/Header';
 
 function App() {
-  const [menu] = useState([
+  const [menus] = useState([
     {
       name: 'about me',
     },
@@ -12,11 +12,11 @@ function App() {
     { name: 'resume'},
   ]);
 
-  const [currentMenu, setCurrentMenu] = useState(menu[0]);
+  const [currentMenu, setCurrentMenu] = useState(menus[0]);
 
   return (
     <Header 
-    menus={menu}
+    menus={menus}
     setCurrentMenu={setCurrentMenu}
     currentMenu={currentMenu}/>
   );
