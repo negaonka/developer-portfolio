@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About component matches snapshot DOM node structure 1`] = `
+<DocumentFragment>
+  <section
+    class="my-5"
+  >
+    <img
+      alt="cover"
+      class="py-2"
+      src="NehaPhoto.png"
+      style="width: 25%; display: block; margin-left: auto; margin-right: auto;"
+    />
+    <h5
+      id="about"
+      style="text-align: center; padding: 20px;"
+    >
+      Hardworking software development professional driven to increase team effectiveness. Focused on usability and performance improvements. Proven history of developing useful, efficient, and cost-effective projects.
+      <br />
+      5+ years of experience in software industry, in gathering requirements, interacting with clients to understand requirements, and developing a web application. Currently associated with RippleHire as Senior Software Developer. Hands on experience in developing Web Applications using Spring MVC, Spring Boot, Web Services, Web API, Microservices, SQL Server, JavaScript, Angular. Good problem-solving skills with high aptitude to follow logic control. Strong communication, interpersonal and time management skills with good work ethics.
+    </h5>
+  </section>
+</DocumentFragment>
+`;
