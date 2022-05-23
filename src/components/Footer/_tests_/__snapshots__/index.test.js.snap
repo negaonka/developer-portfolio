@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer component matches snapshot 1`] = `
+<DocumentFragment>
+  <footer>
+    <div
+      class="flex-row"
+      style="justify-content: center;"
+    >
+      <img
+        alt="cover"
+        class="px-1 py-1 img-thumbnail mx-1"
+        src="github.png"
+        style="width: 60px; height: 60px;"
+      />
+      <img
+        alt="cover"
+        class="px-1 py-1 img-thumbnail mx-1"
+        src="linkdln.jfif"
+        style="width: 60px; height: 60px;"
+      />
+      <img
+        alt="cover"
+        class="px-1 py-1 img-thumbnail mx-1"
+        src="stackOverflow.jfif"
+        style="width: 60px; height: 60px;"
+      />
+    </div>
+  </footer>
+</DocumentFragment>
+`;
