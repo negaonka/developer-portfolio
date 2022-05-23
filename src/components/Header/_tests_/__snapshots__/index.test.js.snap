@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component matches snapshot 1`] = `
+<DocumentFragment>
+  <header
+    class="flex-row px-1 py-2"
+  >
+    <h2>
+      <a
+        data-testid="link"
+        href="/"
+      >
+        <span
+          aria-label="name"
+          role="img"
+        >
+          Neha Gaonkar
+        </span>
+      </a>
+    </h2>
+    <nav>
+      <ul
+        class="flex-row"
+      >
+        <li
+          class="mx-2 false"
+        >
+          <span>
+            About me
+          </span>
+        </li>
+      </ul>
+    </nav>
+  </header>
+</DocumentFragment>
+`;

@@ -12,7 +12,7 @@ function Header(props){
     <header className="flex-row px-1 py-2">
       <h2>
         <a data-testid="link" href="/">
-          <span role="img" aria-label="name"> Neha Gaonkar</span>
+          <span role="img" aria-label="name">Neha Gaonkar</span>
         </a>
       </h2>
     <Nav   
