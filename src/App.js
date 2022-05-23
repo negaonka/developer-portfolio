@@ -5,6 +5,7 @@ import Header from './components/Header';
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
 import Resume from './components/Resume';
+import Footer from './components/Footer';
 
 function App() {
   const [menus] = useState([
@@ -28,6 +29,7 @@ function App() {
       {currentMenu.name === "contact" && <Contact/>}
       {currentMenu.name === "resume" && <Resume/>}
     </main>
+    <Footer/>
   </>
   );
 }
