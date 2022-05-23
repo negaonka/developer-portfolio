@@ -12,39 +12,39 @@ function Portfolio(){
     const [developers] = useState([
         {
             image: developer1,
-            application:"https://api.github.com/users/mojombo",
-            github:"https://github.com/mojombo",
-            name: "Plantonic Game"
+            application:"http://negaonka.github.io/photo-portfolio",
+            github:"https://github.com/negaonka/photo-portfolio",
+            name: "Photo Portfolio"
         },
         {
             image: developer2,
-            application:"https://api.github.com/users/defunkt",
-            github:"https://github.com/defunkt",
-            name: "Game Kaboolush"
+            application:"http://negaonka.github.io/photo-portfolio",
+            github:"https://github.com/negaonka/photo-portfolio",
+            name: "Photo Portfolio"
         },
         {
             image: developer3,
-            application:"https://api.github.com/users/pjhyett",
-            github:'https://github.com/pjhyett',
+            application:"https://negaonka.github.io/hangman",
+            github:'https://github.com/negaonka/hangman',
             name: "Technical LOL"
         },
         {
             image: developer4,
-            application:"https://api.github.com/users/wycats",
-            github:'https://github.com/wycats',
-            name: "Smart Kitten"
+            application:"http://negaonka.github.io/SmartVolunteer",
+            github:"https://github.com/negaonka/SmartVolunteer",
+            name: "Smart Volunteer"
         },
         {
             image: developer5,
-            application:"https://api.github.com/users/ezmobius",
-            github:'https://github.com/ezmobius',
-            name: 'Zombie Sculpture'
+            application:"http://negaonka.github.io/photo-portfolio",
+            github:"https://github.com/negaonka/photo-portfolio",
+            name: "Photo Portfolio Test"
         },
         {
             image: developer6,
-            application:"https://api.github.com/users/ivey",
-            github:'https://github.com/ivey',
-            name: 'Fitness Money'
+            application:"http://negaonka.github.io/SmartVolunteer",
+            github:"https://github.com/negaonka/SmartVolunteer",
+            name: "Smart Volunteer"
         }
       ]);
 

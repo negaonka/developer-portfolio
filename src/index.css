@@ -6,10 +6,10 @@ main {
 }
 :root {
   --primary: #8c54ff;
-  --secondary: #1561f0;
+  --secondary: #ec7d10;
   --tertiary: #B12704;
-  --light: #86868b;
-  --dark: #2b2b2b;
+  --light: #faedca;
+  --dark: #2b2b2b;;
   --darker: #131313;
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
@@ -30,11 +30,11 @@ body {
 body {
   margin: 0;
   padding: 0;
-  font-weight: 600;
+  font-weight: bold;
   line-height: 1.5;
   font-size: 20px;
   letter-spacing: .1em;
-  background: var(--darker);
+  background: linear-gradient(to left, rgba(7,27,82,1) 0%, rgba(0, 128, 128,1) 100%);
   color: var(--light);
   font-family: 'San Francisco', sans-serif;
 
@@ -270,10 +270,10 @@ textarea {
 }
 
 button {
-	background: var(--secondary);
+	background: var(--dark);
 	border: 0;
 	border-radius: 5px;
-	color: #fff;
+	color: var(--light);
 	cursor: pointer;
 	font-size: 16px;
 	font-weight: 600;
